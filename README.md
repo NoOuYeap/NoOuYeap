@@ -5,7 +5,7 @@
 </div>    
 
 ### Hello, I'm an aspiring programmer.
-
+You're curious about me?
 ### Interest
 - JavaScript
 - Git
