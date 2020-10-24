@@ -4,7 +4,11 @@
 
 </div>    
 
-### 안녕하세요 프로그래머 지망생입니다
+### Hello, I'm an aspiring programmer.
+
+### Interest
+- JavaScript
+- 
 
 <!--
 **NoOuYeap/NoOuYeap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
