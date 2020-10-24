@@ -13,6 +13,7 @@
 - Git
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9A%B0%EC%97%BD-%EB%85%B8-5936241ba/)](https://www.linkedin.com/in/%EC%9A%B0%EC%97%BD-%EB%85%B8-5936241ba/)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009696542922)](https://www.facebook.com/profile.php?id=100009696542922)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NoOuYeap)](https://github.com/anuraghazra/github-readme-stats)
 
