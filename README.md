@@ -17,7 +17,7 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009696542922)](https://www.facebook.com/profile.php?id=100009696542922)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smreo307@gamil.com)](mailto:smreo307@gamil.com)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NoOuYeap)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NoOuYeap&hide=issues&show_icons=true)
 
 
 
