@@ -7,7 +7,7 @@
 ### Hello, I'm an aspiring programmer.
 > 프로그래머가 되기위해 연습중입니다    
 >
-#### You're curious about me? [resume](https://github.com/NoOuYeap/MyProfile)
+#### You're curious about me? [MyProfile](https://github.com/NoOuYeap/MyProfile)
 ### Interest
 - JavaScript
 - Git
