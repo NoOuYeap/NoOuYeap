@@ -4,8 +4,8 @@
 
 </div>    
 
-### Hello, I'm an aspiring programmer.
-> 프로그래머가 되기위해 연습중입니다    
+### Hello, I'm an aspiring developer.
+> 개발자가 되기위해 연습중입니다    
 >
 #### You're curious about me? [MyProfile](https://github.com/NoOuYeap/MyProfile)
 ### Interest
