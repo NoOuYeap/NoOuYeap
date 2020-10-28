@@ -11,6 +11,7 @@
 ### Interest
 - JavaScript
 - Android
+- Python
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/NoOuYeap)](https://github.com/NoOuYeap)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9A%B0%EC%97%BD-%EB%85%B8-5936241ba/)](https://www.linkedin.com/in/%EC%9A%B0%EC%97%BD-%EB%85%B8-5936241ba/)
